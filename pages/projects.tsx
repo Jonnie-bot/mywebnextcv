@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import Head from "next/head";
 import { useState } from "react";
 import { fadeInUp, routerAnimation, stagger } from "../animations";
 import ProjectCard from "../components/ProjectCard";
@@ -35,6 +36,10 @@ const Projects = () => {
       className="px-5 py-2 overflow-y-scroll dark:text-white"
       style={{ height: "65vh" }}
     >
+      <Head>
+        <title>John | Fullstack & Mobile App Developer</title>
+      </Head>
+      
       <ProjectsNavBar
         handlerFilterCategory={handlerFilterCategory}
         active={active}

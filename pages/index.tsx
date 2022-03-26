@@ -2,10 +2,16 @@ import { motion } from "framer-motion";
 import { fadeInUp, routerAnimation, stagger } from "../animations";
 import ServiceCard from "../components/ServiceCard";
 import { services } from "../data";
+import Head from 'next/head'
 
 const index = () => {
   return (
     <motion.div variants={routerAnimation} initial="initial" animate="animate" exit="exit" className="flex flex-col flex-grow px-6 pt-1">
+
+      <Head>
+        <title>John | Fullstack & Mobile App Developer</title>
+      </Head>
+      
       <h5 className="my-3 font-medium dark:text-white">
         I am a Fullstack Developer with 2 Years of experience with an Associate Degree in
         Computer Science from St.Paul&apos;s University, Kenya.

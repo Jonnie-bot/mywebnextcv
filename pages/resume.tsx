@@ -2,6 +2,7 @@ import Bar from "../components/Bar";
 import { languages, tools } from "../data";
 import { motion } from "framer-motion";
 import { fadeInUp, routerAnimation } from "../animations";
+import Head from "next/head";
 
 const resume = () => {
   return (
@@ -12,6 +13,11 @@ const resume = () => {
       exit="exit"
       className="px-6 py-2"
     >
+
+       <Head>
+        <title>John | Fullstack & Mobile App Developer</title>
+      </Head>
+      
       {/* education & experience */}
       <div className="grid gap-6 md:grid-cols-2 dark:text-white">
         <motion.div variants={fadeInUp} initial="initial" animate="animate">
