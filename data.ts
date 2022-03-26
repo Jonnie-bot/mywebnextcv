@@ -180,9 +180,9 @@ export const projects: IProject[] = [
     name: "Web Cv",
     description: "This web portfolio.",
     image_path: "/images/next.png",
-    github_url: "",
+    github_url: "https://github.com/Jonnie-bot/mywebnextcv",
     category: ["next"],
-    key_techs: ["Next", "Tailwind"],
+    key_techs: ["Next", "Tailwind", "Typescript"],
   },
 
   {
