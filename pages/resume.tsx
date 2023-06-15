@@ -28,8 +28,8 @@ const resume = () => {
               St.Paul&apos;s University(2020-2021)
             </p>
             <p className="my-3">
-              I am a Fullstack Developer with 2 Years of experience with an
-              Associate Degree in Computer Science from St.Paul&apos;s
+              I am a Fullstack Developer with more than 1 Year of experience with a
+              diploma in Computer Science from St.Paul&apos;s
               University, Kenya.
             </p>
           </div>
