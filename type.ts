@@ -26,6 +26,8 @@ export interface IProject {
 export type Category =
 	| "react"
 	| "next"
+	| "nest"
+	| "node"
 	| "django"
 	| "react native"
 	| "kotlin"
