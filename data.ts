@@ -44,7 +44,7 @@ export const services: IService[] = [
 		Icon: MdDeveloperMode,
 		title: "Mobile App Development",
 		description:
-			"I can build a beautiful and scalable mobile app using <b> React Native</b>",
+			"I can build a beautiful and scalable mobile app using <b> React Native and Expo</b>",
 	},
 ];
 
@@ -52,32 +52,42 @@ export const languages: ISkill[] = [
 	{
 		Icon: BsCircleFill,
 		name: "Python",
-		level: "70%",
+		level: "40%",
 	},
 	{
 		Icon: BsCircleFill,
 		name: "Java Script",
-		level: "60%",
+		level: "80%",
 	},
 	{
 		Icon: BsCircleFill,
 		name: "Next Js",
-		level: "50%",
+		level: "80%",
 	},
 	{
 		Icon: BsCircleFill,
 		name: "React Js",
-		level: "60%",
-	},
-	{
-		Icon: BsCircleFill,
-		name: "Django",
 		level: "70%",
 	},
 	{
 		Icon: BsCircleFill,
+		name: "Django",
+		level: "30%",
+	},
+	{
+		Icon: BsCircleFill,
 		name: "Tailwind",
-		level: "50%",
+		level: "70%",
+	},
+	{
+		Icon: BsCircleFill,
+		name: "Node Js",
+		level: "70%",
+	},
+	{
+		Icon: BsCircleFill,
+		name: "Nest Js",
+		level: "60%",
 	},
 ];
 
