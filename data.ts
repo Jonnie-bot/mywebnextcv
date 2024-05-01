@@ -14,25 +14,19 @@ export const services: IService[] = [
 		Icon: RiComputerLine,
 		title: "Frontend Development",
 		description:
-			"I can build a beautiful and scalable SPA using <b> HTML</b>,<b>CSS</b>   and <b>React.js</b>/<b>Next.js</b> ",
+			"I can build a beautiful and scalable <b>Web App</b> using <b>Tailwind Css</b>,<b>React.js</b> and <b>Next.js</b> ",
 	},
 	{
 		Icon: FaServer,
 		title: "Backend  Development",
 		description:
-			"I can handle database, server, api using <b>Django </b> & other popular frameworks like <b>Django Rest Framework </b>",
+			"I can handle database, server, api using <b>Node Js </b> & other popular frameworks like <b>Node and Express Framework </b>",
 	},
 	{
 		Icon: AiOutlineApi,
 		title: "API Development",
 		description:
-			"I can develop robust  REST API using <b>django-rest-api</b> ",
-	},
-	{
-		Icon: AiOutlineCode,
-		title: "Competitive Coder",
-		description:
-			"I am weekly problem solver in <b>HackerRank</b>  and <b>Leet Code</b> ",
+			"I can develop robust  REST API using <b>Node js</b> with <b>Express</b> using <b>Nest js Framework</b> ",
 	},
 	{
 		Icon: AiOutlineAntDesign,
