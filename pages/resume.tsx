@@ -41,7 +41,7 @@ const resume = () => {
             <h5 className="my-2 text-xl font-bold">
               Software Developer/Engineer
             </h5>
-            <p className="font-semibold">Juan Bass Enterprise(2020-To Date)</p>
+            <p className="font-semibold">Freelance (2022-To Date)</p>
             <p className="my-3">
               Developing Web and Mobile Apps with a passion!!
             </p>
