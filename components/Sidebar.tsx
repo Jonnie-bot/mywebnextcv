@@ -35,7 +35,7 @@ const Sidebar = () => {
 			<p className="px-2 py-1 my-3 bg-gray-200 rounded-full dark:bg-dark-200 dark:text-white">
 				FullStack Developer || Engineer
 			</p>
-			<Link href="/assets/mycv1.pdf">
+			<Link href="/assets/MY_CV.pdf">
 				<a
 					className="flex items-center justify-center px-2 py-1 my-3 bg-gray-200 rounded-full"
 					download="mycv1.pdf">
