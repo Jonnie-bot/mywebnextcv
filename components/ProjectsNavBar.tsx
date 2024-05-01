@@ -32,6 +32,8 @@ const ProjectsNavBar: FunctionComponent<{
 			<NavItem value="django" {...props} />
 			<NavItem value="react native" {...props} />
 			<NavItem value="node" {...props} />
+			<NavItem value="nest" {...props} />
+			
 		</div>
 	);
 };
