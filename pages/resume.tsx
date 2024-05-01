@@ -25,7 +25,7 @@ const resume = () => {
           <div>
             <h5 className="my-2 text-xl font-bold">Computer Science</h5>
             <p className="font-semibold">
-              St.Paul&apos;s University(2020-2021)
+              St.Paul&apos;s University(2019-2021)
             </p>
             <p className="my-3">
               I am a Fullstack Developer with more than 1 Year of experience with a
