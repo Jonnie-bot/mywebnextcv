@@ -45,11 +45,6 @@ export const services: IService[] = [
 export const languages: ISkill[] = [
 	{
 		Icon: BsCircleFill,
-		name: "Python",
-		level: "40%",
-	},
-	{
-		Icon: BsCircleFill,
 		name: "Java Script",
 		level: "80%",
 	},
@@ -60,13 +55,18 @@ export const languages: ISkill[] = [
 	},
 	{
 		Icon: BsCircleFill,
-		name: "React Js",
+		name: "Node Js",
 		level: "70%",
 	},
 	{
 		Icon: BsCircleFill,
-		name: "Django",
-		level: "30%",
+		name: "Nest Js",
+		level: "60%",
+	},
+	{
+		Icon: BsCircleFill,
+		name: "React Js",
+		level: "70%",
 	},
 	{
 		Icon: BsCircleFill,
@@ -75,13 +75,13 @@ export const languages: ISkill[] = [
 	},
 	{
 		Icon: BsCircleFill,
-		name: "Node Js",
-		level: "70%",
+		name: "Python",
+		level: "40%",
 	},
 	{
 		Icon: BsCircleFill,
-		name: "Nest Js",
-		level: "60%",
+		name: "Django",
+		level: "30%",
 	},
 ];
 
